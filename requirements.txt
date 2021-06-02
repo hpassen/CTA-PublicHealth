@@ -53,6 +53,6 @@ six==1.14.0
 snuggs==1.4.7
 soupsieve==2.0
 traitlets==4.3.3
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.1.8
 wrapt==1.12.0
